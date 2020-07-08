@@ -32,6 +32,6 @@ Nossa principal ideia é a construção de dois softwares, um para acesso dos tr
 ***
 
 Desenvolvedores  💜
-[Arley Augusto](https://github.com/arleynm)
- [Iago Antunes](https://github.com/IagoAntunes)
+[Arley Augusto](https://github.com/arleynm),
+ [Iago Antunes](https://github.com/IagoAntunes) e
  [Ítalo Médici](https://github.com/ItaloMedici)
