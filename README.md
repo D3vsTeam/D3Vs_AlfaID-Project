@@ -1,3 +1,5 @@
+![](images/prancheta-3.png)
+
 ## D3Vs - AphaID :rocket:
 
 Nossa principal ideia é a construção de dois softwares, um para acesso dos trabalhadores que conterá as informações de seus EPIs e outro exclusivo para a gestão dos funcionários
@@ -24,7 +26,9 @@ Nossa principal ideia é a construção de dois softwares, um para acesso dos tr
 
 ***
 
-Desenvolvedores  💜
+Desenvolvedores
 [Arley Augusto](https://github.com/arleynm),
- [Iago Antunes](https://github.com/IagoAntunes) e
- [Ítalo Médici](https://github.com/ItaloMedici)
+[Iago Antunes](https://github.com/IagoAntunes) e
+[Ítalo Médici](https://github.com/ItaloMedici)
+
+Com 💜 ![](images/prancheta-2.png)
