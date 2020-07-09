@@ -1,4 +1,4 @@
-![Astron](https://i.imgur.com/glTlq4e.png)
+
 
 ## D3Vs - AphaID :rocket:
 
@@ -32,4 +32,4 @@ Desenvolvedores
 [Ítalo Médici](https://github.com/ItaloMedici)
 
 Com 💜 
-![Astron](https://github.com/ItaloMedici/D3Vs_Alphaid-Project/blob/master/Images/Prancheta%206.png?raw=true)
+![Astron](https://github.com/ItaloMedici/D3Vs_Alphaid-Project/blob/master/Images/Prancheta%206.png?raw=true)![Astron](https://i.imgur.com/glTlq4e.png)
