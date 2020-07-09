@@ -1,5 +1,4 @@
 
-
 ## D3Vs - AphaID :rocket:
 
 Nossa principal ideia é a construção de dois softwares, um para acesso dos trabalhadores que conterá as informações de seus EPIs e outro exclusivo para a gestão dos funcionários
@@ -32,4 +31,4 @@ Desenvolvedores
 [Ítalo Médici](https://github.com/ItaloMedici)
 
 Com 💜 
-![Astron](https://github.com/ItaloMedici/D3Vs_Alphaid-Project/blob/master/Images/Prancheta%206.png?raw=true)![Astron](https://i.imgur.com/glTlq4e.png)
+![Astron](https://github.com/ItaloMedici/D3Vs_Alphaid-Project/blob/master/Images/Prancheta%206.png?raw=true)      ![Astron](https://i.imgur.com/glTlq4e.png)
