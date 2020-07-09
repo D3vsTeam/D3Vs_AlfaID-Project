@@ -2,28 +2,21 @@
 
 Nossa principal ideia é a construção de dois softwares, um para acesso dos trabalhadores que conterá as informações de seus EPIs e outro exclusivo para a gestão dos funcionários
 
-### Funções dos trabalhadores
+### Sobre o Sistema
 ***
- - Quais epis esse funcionário tem cadastrado
- - Tempo de vida desses EPIs
-- Visualização dos dados de cada EPI, sendo: 
-  - Quantidade
-  - Especificação do EPI (TIPO)
-  - CA
-  - Data de entrega
-  - Data Entrega
-  - Visto
- - Leitura do QR Code para o cadastro do EPI e confirmação da entrega 
-
-### Funções da gestão
+ Nossa principal ideia é a construção de dois aplicativos, um para acesso dos trabalhadores que conterá as informações de seus EPIs e outro exclusivo para a gestão   dos funcionários que terá a função de cadastrar os trabalhadores e EPIs.
+ 
+### Problema
 ***
- - Cadastro funcionário no banco de dados, sendo:
-   - Quantidade
-   - Especificação do EPI (TIPO)
-   - CA
-   - Data de entrega
-   - Data Entrega
-   - Visto
+  O problema encontrado pela D3Vs na Alfa Engenharia, é a forma que é efetuado o controle e gestão dos EPI's para seus funcionários, sendo de maneira não prática e     tão pouco eficiente.
+  
+### Objetivo
+***
+   Automatizar o controle de entregas, vida útil e disponibilidade de EPI's.
+   
+### Público alvo
+***
+   Nosso público alvo são todos os funcionários da empresa que necessitam de seus EPI's, onde haverá entregas de forma prática e automatizada.
 
 
 
