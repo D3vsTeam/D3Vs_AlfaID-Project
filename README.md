@@ -1,4 +1,4 @@
-![Astron](https://github.com/ItaloMedici/D3Vs_Alphaid-Project/blob/master/Images/Prancheta%207.png?raw=true)
+'''''''''''''''''''![Astron](https://github.com/ItaloMedici/D3Vs_Alphaid-Project/blob/master/Images/Prancheta%207.png?raw=true)
 
 ## D3Vs - AphaID :rocket:
 
@@ -31,4 +31,4 @@ Desenvolvedores
 [Iago Antunes](https://github.com/IagoAntunes) e
 [Ítalo Médici](https://github.com/ItaloMedici)
 
-Com 💜 ![Astron](https://github.com/ItaloMedici/D3Vs_Alphaid-Project/blob/master/Images/Prancheta%206.png?raw=true)
+Com 💜 ![Astron](https://tppmaw.ch.files.1drv.com/y4plejW3tXEd7340F6h-xLA6yi3Th1KwwHI4hZwahto7srdCDPJHAzf_11KOgk6F5RMSkz1Nd16D5pYLca1lECA1gPGlm6l72YUXDhk22V61EQ_HuUjDAWzLvokNzJO9qT7a9BRNFC0IlhkQLzJrc56lLtM0RUOdYaKI5OL97DaT0YhcglMnsq8_Bn4khnd05fJzBRRQQJf_1BXGi-UmTPMQRKcYia2iB87MI_wlJFfsUg?encodeFailures=1&width=1366&height=617)
