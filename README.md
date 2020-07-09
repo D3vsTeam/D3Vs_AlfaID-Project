@@ -1,4 +1,4 @@
-![](images/prancheta-3.png)
+
 
 ## D3Vs - AphaID :rocket:
 
@@ -21,7 +21,7 @@ Nossa principal ideia é a construção de dois softwares, um para acesso dos tr
    Nosso público alvo são todos os funcionários da empresa que necessitam de seus EPI's, onde haverá entregas de forma prática e automatizada.
 
 
-![Astron](https://raw.githubusercontent.com/ItaloMedici/D3Vs_Alphaid-Project/master/Images/Prancheta-3.png)
+
 
 
 ***
@@ -31,4 +31,4 @@ Desenvolvedores
 [Iago Antunes](https://github.com/IagoAntunes) e
 [Ítalo Médici](https://github.com/ItaloMedici)
 
-Com 💜 ![](images/prancheta-2.png)
+Com 💜 ![Astron](https://raw.githubusercontent.com/ItaloMedici/D3Vs_Alphaid-Project/master/Images/Prancheta-2.png)
