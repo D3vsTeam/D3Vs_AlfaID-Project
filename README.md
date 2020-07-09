@@ -1,4 +1,4 @@
-![d3vs](https://imgur.com/jnaNjsT)
+![d3vs](https://i.imgur.com/jnaNjsT.png)
 ## D3Vs - AphaID :rocket:
 
 Nossa principal ideia é a construção de dois softwares, um para acesso dos trabalhadores que conterá as informações de seus EPIs e outro exclusivo para a gestão dos funcionários
@@ -31,4 +31,4 @@ Desenvolvedores
 [Ítalo Médici](https://github.com/ItaloMedici)
 
 
-![d3vs](https://imgur.com/nCUxjpM)
+![d3vs](https://i.imgur.com/nCUxjpM.png)
