@@ -8,8 +8,8 @@
 ## UI - UX 🎯
 >Projeto ainda em desenvolvimento utilizando o software figma 
 ### Etapas 🔰
-- [ ] Interface de login
-- [ ] Interface home
+- [x] Interface de login
+- [x] Interface home
 - [ ] Menu
 - [ ] Pop-ups e animações
 - [ ] Prototipagem 
