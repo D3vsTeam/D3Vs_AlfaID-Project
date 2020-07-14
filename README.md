@@ -17,7 +17,7 @@ Nossa principal ideia é a construção de dois softwares, um para acesso dos tr
    
 ### Público alvo
 ***
-   Nosso público alvo são os funcionarios e a empresa que necessitam de uma ferramenta que auxilie na entrega e gerenciamento de EPI's de uma forma pratica e eficiente
+   Nosso público alvo são os funcionarios e a empresa que necessitam de uma ferramenta que auxilie na entrega e gerenciamento de EPI's de uma forma pratica e eficiente.
 
 
 
