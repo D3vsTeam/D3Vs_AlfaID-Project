@@ -15,7 +15,7 @@ A idéia da nossa equipe,é a criação de um aplicativo que registre cada funci
 ***
    Automatizar o controle de entregas, vida útil e disponibilidade de EPI's.
    
-### Público alvo
+### Público alvo :dart:
 ***
    Nosso público alvo são os funcionarios e a empresa que necessitam de uma ferramenta que auxilie na entrega e gerenciamento de EPI's de uma forma pratica e eficiente.
 
