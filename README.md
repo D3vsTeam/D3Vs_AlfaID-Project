@@ -11,7 +11,7 @@ A idéia da nossa equipe,é a criação de um aplicativo que registre cada funci
 ***
   O problema encontrado pela D3Vs na Alfa Engenharia, é a forma que é efetuado o controle e gestão dos EPI's para seus funcionários, sendo de maneira não prática e     tão pouco eficiente.
   
-### Objetivo
+### Objetivo 💡
 ***
    Automatizar o controle de entregas, vida útil e disponibilidade de EPI's.
    
