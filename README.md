@@ -17,7 +17,7 @@ A idéia da nossa equipe,é a criação de um aplicativo que registre cada funci
    
 ### Público alvo :dart:
 ***
-   Nosso público alvo são os funcionarios e a empresa que necessitam de uma ferramenta que auxilie na entrega e gerenciamento de EPI's de uma forma pratica e eficiente.
+   Nosso público alvo são os funcionarios e as empresas que necessitam de uma ferramenta que auxilie na entrega e gerenciamento de EPI's de uma forma pratica e eficiente.
 
 
 
