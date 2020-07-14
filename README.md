@@ -3,7 +3,7 @@
 
 A idéia da nossa equipe,é a criação de um aplicativo que registre cada funcionário da empresa, e que com o Auxilio do QRCode/Codigo de Barras o funcionário adicione os seus EPI's recebidos.
 
-### Sobre o Sistema
+### Sobre o Sistema  :page_with_curl:
 ***
  Nossa principal ideia é a construção de dois aplicativos, um para acesso dos trabalhadores que conterá as informações de seus EPIs e outro exclusivo para a gestão   dos funcionários que terá a função de cadastrar os trabalhadores e EPIs.
  
