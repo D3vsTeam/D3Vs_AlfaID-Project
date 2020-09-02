@@ -1,0 +1,147 @@
+
+*{
+    margin: 0;
+}
+
+#index .topo{
+    width: 100vw;
+    height: 100vw;
+}
+.topo {
+    background: #263894;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.topo h1  {
+    font: 700 7rem Archivo;
+    color: white;
+    font-size: 7rem;
+}
+
+.topo h2{ 
+    padding: 2rem;
+    font: 700 0.8rem Archivo;
+    color: white;
+}
+
+.login{
+    margin-top: 1rem;
+}
+
+
+.login h1 {
+    font-weight: 900;
+    font-size: 3rem;
+    font-family: monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+
+#texto-login {
+    display: flex;
+}
+
+#texto-senha{
+    display: flex;
+}
+
+#texto-senha img{
+    width: 2rem;
+    height: 2rem;
+    margin-right: 0.8rem;
+}
+
+#texto-login img{
+   width: 2rem;
+   height: 2rem;
+   margin-right: 0.8rem;
+}
+
+.login #texto-login input {
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 2rem;
+    border: 1px solid #263894;
+    margin-bottom: 1rem;
+}
+.login #texto-login label{
+    font-size: 1rem;
+    display: flex;
+    text-align: center;
+    justify-content: start;
+    margin-left: 3rem;
+    color: black;
+
+}
+.login #texto-senha input{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 2rem;
+    border: 1px solid #263894;
+    
+}
+.login #texto-senha label{
+    font-size: 1rem;
+    display: flex;
+    text-align: center;
+    justify-content: start;
+    margin-left: 3rem;
+    color: black;
+}
+
+#index div button {
+    width: 40%;
+    height: 2rem;
+    background: #263894;
+    color: white;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    font: 700 2rem monospace;
+
+    border: 0;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+
+    transition: 0.2s;
+    margin-top: 1rem;
+}
+
+#conectado input {
+    justify-content: center;
+    text-align: center;
+}
+#index div div{
+    justify-content: center;
+    text-align: center;
+    font-size: 0.8rem;
+    color: gray;
+}
+
+.flogin {
+    padding: 2.4rem;
+}
+
+
+.qr-code {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-code{
+    color: #263894;
+    text-align: center;
+    font: 700 1.1rem monospace;
+}
