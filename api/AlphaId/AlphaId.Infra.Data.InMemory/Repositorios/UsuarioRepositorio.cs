@@ -31,10 +31,20 @@ namespace AlphaId.Infra.Data.InMemory.Repositorios
         {
             return contexto.Usuarios.SingleOrDefault(w => w.Cpf == cpf);
         }
-
         public Usuario RecuperarPorCpfESenha(string cpf, string senha)
         {
             return contexto.Usuarios.SingleOrDefault(w => w.Cpf == cpf && w.Senha == senha);
         }
+        public Usuario RecuperarPorSenha(string senha)
+        {
+            return contexto.Usuarios.SingleOrDefault(w => w.Senha == senha);
+        }
+        public Usuario Tipo(TipoUsuario tipoUsuario)
+        {
+            return contexto.Usuarios.SingleOrDefault(w => w.TipoUsuario == tipoUsuario);
+        }
+
+
+
     }
 }

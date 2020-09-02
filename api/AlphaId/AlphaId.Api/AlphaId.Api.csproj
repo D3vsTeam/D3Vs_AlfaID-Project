@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\AlphaId.Dominio\AlphaId.Dominio.csproj" />
     <ProjectReference Include="..\AlphaId.Servico\AlphaId.Servico.csproj" />
   </ItemGroup>
