@@ -15,6 +15,10 @@ namespace AlphaId.Dominio.Entidades
 
         public string Senha { get; set; }
 
+        public string epi { get; set; }
+
+        public string quantiidade { get; set; }
+
         public TipoUsuario TipoUsuario { get; set; }
     }
 }
