@@ -359,3 +359,5 @@ MigrationBackup/
 .ionide/
 
 # Fody - auto-generated XML schema
+FodyWeavers.xsd
+app_alfaID/
