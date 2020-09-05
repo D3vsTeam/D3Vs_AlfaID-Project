@@ -46,5 +46,19 @@ namespace AlphaId.Servico
             else
                 return usuario;
         }
+        public Usuario Confirm(string senha)
+        {
+            var usuario = usuarioRepositorio.RecuperarPorSenha(senha);
+
+            if (usuario == null)
+                throw new Exception("Senha invalida");
+            else
+                throw new Exception("senha valida");
+        }
+        public Usuario Tipos(TipoUsuario tipousuario)
+        {
+            return usuarioRepositorio.Tipo(tipousuario);
+        }
+
     }
 }
