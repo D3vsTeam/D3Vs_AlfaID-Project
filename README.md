@@ -1,4 +1,3 @@
-![d3vs](https://i.imgur.com/jnaNjsT.png)
 ## D3Vs - AlfaID :rocket:
 
 A idéia da nossa equipe,é a criação de um aplicativo que registre cada funcionário da empresa, e que com o Auxilio do QRCode/Codigo de Barras o funcionário adicione os seus EPI's recebidos.
