@@ -34,4 +34,4 @@ Desenvolvedores
 [Ítalo Médici](https://github.com/ItaloMedici)
 
 
-![d3vs](https://i.imgur.com/nCUxjpM.png)
+![d3vs](https://avatars.githubusercontent.com/u/107968111?s=400&u=72f5dce65145451b4538beff3ee16e39a842957d&v=4)
